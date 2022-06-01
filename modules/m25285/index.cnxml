@@ -1,0 +1,301 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>A grid network</title>
+  <metadata>
+  <md:content-id>m25285</md:content-id><md:title>A grid network</md:title>
+  <md:abstract/>
+  <md:uuid>12575d4a-a52b-4e27-a2d8-de40afdd0541</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1167173128924">
+      <title>GEOGRAPHY</title>
+      <para id="para-id1167173128924">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167178143821">
+      <title>Grade 4</title>
+      <para id="para-id1167178143821">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167178210540">
+      <title>MAP WORK</title>
+      <para id="para-id1167178210540">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167176323371">
+      <title>Module 6</title>
+      <para id="para-id1167176323371">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167176194724">
+      <title>A GRID NETWORK</title>
+      <list id="id1167178309903" list-type="bulleted">
+        <item>To indicate the location of a specific place or characteristic is much easier if there is a grid network. These are lines drawn on the map, which divide the map into small squares. At the top of the map, each square is then numbered 1, 2, 3, and so on. In the left and/or right margins, you find the letters A, B, C, etc.</item>
+      </list>
+      <para id="id1167178274505">We then use these letters and numbers to give each square a name.</para>
+      <para id="id1167178142776">Example:</para>
+      <table id="id1167173311064" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>1</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>A</entry>
+              <entry>
+                <media id="id1167169703823" alt="">
+                  <image mime-type="image/png" src="../../media/graphics1-db31.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id1167169702395" alt="">
+                  <image mime-type="image/png" src="../../media/graphics2-cf85.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id1167178442836" alt="">
+                  <image mime-type="image/png" src="../../media/graphics3-92f6.png"/>
+                </media>
+              </entry>
+              <entry>A</entry>
+            </row>
+            <row>
+              <entry>B</entry>
+              <entry>
+                <media id="id1167169725480" alt="">
+                  <image mime-type="image/png" src="../../media/graphics4-cb07.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id1167178594643" alt="">
+                  <image mime-type="image/png" src="../../media/graphics5-4cfb.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id1167169705346" alt="">
+                  <image mime-type="image/png" src="../../media/graphics6.png"/>
+                </media>
+              </entry>
+              <entry>B</entry>
+            </row>
+            <row>
+              <entry>C</entry>
+              <entry>
+                <media id="id1167176250924" alt="">
+                  <image mime-type="image/png" src="../../media/graphics7.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id1167176246778" alt="">
+                  <image mime-type="image/png" src="../../media/graphics8.png"/>
+                </media>
+              </entry>
+              <entry>
+                <media id="id1167178607938" alt="">
+                  <image mime-type="image/png" src="../../media/graphics9.png"/>
+                </media>
+              </entry>
+              <entry>C</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>3</entry>
+              <entry>2</entry>
+              <entry>3</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167175833615">If now you want to indicate where the <emphasis effect="bold">aeroplane</emphasis> is, we say it is in block <emphasis effect="bold">B2</emphasis>.</para>
+      <section id="id1167173264254">
+        <title>Activity 1</title>
+        <para id="para-id1167173264254">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1167173278106">
+        <title>To indicate location by means of a grid network [LO 1.3, 1.4]</title>
+        <para id="id1167176159356">Indicate the location of the following objects as they appear in the example:</para>
+        <para id="id1167173159392">1. man <emphasis effect="bold">…………………………………………………………………………………</emphasis></para>
+        <para id="id1167178436244">2. tree <emphasis effect="bold">…………………………………………………………………………………</emphasis></para>
+        <para id="id1167176290763">3. dog <emphasis effect="bold">………………………………………………………………………………….</emphasis></para>
+        <para id="id1167176166195">4. house <emphasis effect="bold">………………………………………………………………………………</emphasis></para>
+        <para id="id1167175953990">Study this grid:</para>
+        <table id="id1167173263523" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>A</entry>
+                <entry>e</entry>
+                <entry>n</entry>
+                <entry>r</entry>
+                <entry>g</entry>
+                <entry>l</entry>
+                <entry>A</entry>
+              </row>
+              <row>
+                <entry>B</entry>
+                <entry>j</entry>
+                <entry>q</entry>
+                <entry>b</entry>
+                <entry>t</entry>
+                <entry>p</entry>
+                <entry>B</entry>
+              </row>
+              <row>
+                <entry>C</entry>
+                <entry>w</entry>
+                <entry>k</entry>
+                <entry>v</entry>
+                <entry>x</entry>
+                <entry>d</entry>
+                <entry>C</entry>
+              </row>
+              <row>
+                <entry>D</entry>
+                <entry>c</entry>
+                <entry>y</entry>
+                <entry>o</entry>
+                <entry>I</entry>
+                <entry>v</entry>
+                <entry>D</entry>
+              </row>
+              <row>
+                <entry>E</entry>
+                <entry>h</entry>
+                <entry>m</entry>
+                <entry>f</entry>
+                <entry>s</entry>
+                <entry>a</entry>
+                <entry>E</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1167173060476">Now study the following coded message that has been written according to the grid network code and decipher it. A semi-colon (;) indicates the end of a word.</para>
+        <para id="id1167176249288">D4; A5 D4 D5 A1; D4 A2; D1 E5 B5 A1; B4 D3 C1 A2; C1 E1 A1 A3 A1; C5 D3; D2 D3 B2; A5 D4 D5 A1</para>
+        <para id="id1167178456026">
+          <emphasis effect="bold">……………………………………………………………………………………</emphasis>
+        </para>
+        <para id="id1167178199927">
+          <emphasis effect="bold">……………………………………………………………………………………</emphasis>
+        </para>
+        <para id="id1167173315350">
+          <emphasis effect="bold">……………………………………………………………………………………</emphasis>
+        </para>
+        <para id="id1167175862275">
+          <emphasis effect="bold">……………………………………………………………………………………</emphasis>
+        </para>
+        <para id="id1167176221151">
+          <emphasis effect="bold">……………………………………………………………………………………</emphasis>
+        </para>
+        <para id="id1167173147446">Now write your own secret message by using the grid network code. Swap your secret message with a classmate and decipher each other’s messages.</para>
+        <para id="id1167178444842">
+          <emphasis effect="bold">……………………………………………………………………………………</emphasis>
+        </para>
+        <para id="id1167176253746">
+          <emphasis effect="bold">……………………………………………………………………………………</emphasis>
+        </para>
+        <para id="id1167173047082">
+          <emphasis effect="bold">……………………………………………………………………………………</emphasis>
+        </para>
+        <para id="id1167173177319">
+          <emphasis effect="bold">……………………………………………………………………………………</emphasis>
+        </para>
+        <para id="id1167169720391">
+          <emphasis effect="bold">……………………………………………………………………………………</emphasis>
+        </para>
+        <para id="id1167176328807">
+          <emphasis effect="bold">……………………………………………………………………………………</emphasis>
+        </para>
+        <para id="id1167176336713">
+          <emphasis effect="bold">……………………………………………………………………………………</emphasis>
+        </para>
+        <para id="id1167176102288">
+          <emphasis effect="bold">……………………………………………………………………………………</emphasis>
+        </para>
+        <para id="id1167176237804">
+          <emphasis effect="bold">……………………………………………………………………………………</emphasis>
+        </para>
+        <para id="id1167173252493">……………………………………………………………………………………</para>
+        <para id="id1167169773025">
+          <emphasis effect="bold">……………………………………………………………………………………</emphasis>
+        </para>
+        <para id="id1167178212028">
+          <emphasis effect="bold">……………………………………………………………………………………</emphasis>
+        </para>
+        <para id="id1167178442248">
+          <emphasis effect="bold">……………………………………………………………………………………</emphasis>
+        </para>
+        <para id="id1167178456175">
+          <emphasis effect="bold">…………………………………………………………………………………</emphasis>
+        </para>
+      </section>
+    </section>
+    <section id="id1167178437841">
+      <title>Assessment</title>
+      <para id="para-id1167178437841">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167178467582">
+      <title>LEARNING OUTCOME 1: GEOGRAPHICAL ENQUIRY</title>
+      <para id="id1167173251456">The learner will be able to use enquiry skills to investigate geographical and </para>
+      <para id="id1167173276721">environmental concepts and processes.</para>
+      <section id="id1167176085565">
+        <title>Assessment Standard</title>
+        <para id="id1167178336757">We know this when the learner:</para>
+        <para id="id1167173152339">1.3 identifies symbols used in different kinds of maps (including plan view, grids and map keys) [works with sources].</para>
+        <para id="id1167178186911">1.4 locates places using a simple grid referencing system and directions [works with sources].</para>
+      </section>
+    </section>
+    <section id="id1167178441839">
+      <title>Memorandum</title>
+      <list id="id1167173252271" list-type="enumerated" number-style="arabic">
+        <item>C3</item>
+        <item>A3</item>
+        <item>B3</item>
+        <item>B1</item>
+      </list>
+    </section>
+  </content>
+</document>
