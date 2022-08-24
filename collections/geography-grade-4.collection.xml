@@ -1,3 +1,59 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11084</md:content-id>  <md:title>Geography Grade 4</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>d4b3563f-f038-4344-bf61-e206cd210a57</md:uuid>
-<md:slug>geography-grade-4</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Term 1</md:title>                                <col:content>                    <col:module document="m25377"/>                            <col:module document="m25275"/>                            <col:module document="m25276"/>                            <col:module document="m25281"/>                            <col:module document="m25284"/>                            <col:module document="m25285"/>                            <col:module document="m25286"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 2</md:title>                                <col:content>                    <col:module document="m25301"/>                            <col:module document="m25302"/>                            <col:module document="m25288"/>                            <col:module document="m25332"/>                            <col:module document="m25333"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 3</md:title>                                <col:content>                    <col:module document="m29344"/>                            <col:module document="m25335"/>                            <col:module document="m25339"/>                            <col:module document="m25345"/>                            <col:module document="m26431"/>                            <col:module document="m25367"/>                            <col:module document="m25373"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 4</md:title>                                <col:content>                    <col:module document="m25375"/>                            <col:module document="m25387"/>                            <col:module document="m25393"/>                            <col:module document="m25397"/>                            <col:module document="m25400"/>                            <col:module document="m25405"/>                            <col:module document="m25408"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11084</md:content-id>
+    <md:title>Geography Grade 4</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>d4b3563f-f038-4344-bf61-e206cd210a57</md:uuid>
+    <md:slug>geography-grade-4</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Term 1</md:title>
+      <col:content>
+        <col:module document="m25377"/>
+        <col:module document="m25275"/>
+        <col:module document="m25276"/>
+        <col:module document="m25281"/>
+        <col:module document="m25284"/>
+        <col:module document="m25285"/>
+        <col:module document="m25286"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 2</md:title>
+      <col:content>
+        <col:module document="m25301"/>
+        <col:module document="m25302"/>
+        <col:module document="m25288"/>
+        <col:module document="m25332"/>
+        <col:module document="m25333"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 3</md:title>
+      <col:content>
+        <col:module document="m29344"/>
+        <col:module document="m25335"/>
+        <col:module document="m25339"/>
+        <col:module document="m25345"/>
+        <col:module document="m26431"/>
+        <col:module document="m25367"/>
+        <col:module document="m25373"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 4</md:title>
+      <col:content>
+        <col:module document="m25375"/>
+        <col:module document="m25387"/>
+        <col:module document="m25393"/>
+        <col:module document="m25397"/>
+        <col:module document="m25400"/>
+        <col:module document="m25405"/>
+        <col:module document="m25408"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
